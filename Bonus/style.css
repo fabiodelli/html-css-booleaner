@@ -1,0 +1,56 @@
+*{
+    font-family: 'IBM Plex Sans', sans-serif;
+    text-align: justify;
+}
+
+
+
+.upper-band{
+    background-image: url(../img/pattern.png); 
+    background-color:#4ea0ff; 
+    height: 175px;
+}
+
+.logo{
+    width: 300px;
+    margin: 80px 0px 0px 200px;
+}
+
+tr{
+    height: 80px;
+    
+}
+
+th{
+    background-color: #4ea0ff;
+    color: white;
+    text-align: left;
+    width: 33%;
+}
+
+.tr-1{
+    background-color: lightskyblue;
+}
+
+.img-monitor{
+background-image: url(../img/monitor.jpg );
+background-repeat: no-repeat;
+color:rgb(255, 255, 255);
+width: 300px;
+height: 220px;
+
+}
+
+.img-graph{
+    background-image: url(../img/graph.jpg );
+background-repeat: no-repeat;
+color:rgb(255, 255, 255);
+width: 300px;
+height: 220px;
+}
+
+.container{
+    text-align: center ;
+    width: 1500px;
+    margin: auto;
+}
