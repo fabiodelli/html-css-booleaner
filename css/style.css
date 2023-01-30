@@ -21,8 +21,13 @@ tr{
 th{
     background-color: #4ea0ff;
     color: white;
+    width: 33.3333333%;
 }
 
 .tr-1{
     background-color: lightskyblue;
+}
+
+.marker{
+    background-color: yellow;
 }
