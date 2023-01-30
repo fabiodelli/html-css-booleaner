@@ -1,3 +1,13 @@
 *{
     font-family: 'IBM Plex Sans', sans-serif;
 }
+
+.upper-band{
+    background-image: url(../img/pattern.png); 
+    background-color:#4ea0ff; 
+    height: 175px;
+}
+
+.logo{
+    width: 300px;
+    margin: 80px 0px 0px 200px;
