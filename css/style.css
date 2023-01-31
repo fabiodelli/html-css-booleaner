@@ -1,8 +1,21 @@
 * {
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif; 
+    font-size: 20px;
+} 
+
+/* Utility */
+
+.marker {
+    background-color: yellow;
+}
+
+.booleaner {
+    color: lightskyblue;
 }
 
 /* Body */
+
+/* Header */
 
 .upper-band {
     background-image: url(../img/pattern.png);
@@ -15,39 +28,29 @@
     margin: 80px 0px 0px 200px;
 }
 
+/* Main */
+
 table{
     border-spacing:0;
     text-align: left;
 }
 
-tr {
-    height: 80px;
-
-}
-
 th {
     background-color: #4ea0ff;
     color: white; 
+    
 }
 
 .th-right {
     background-color: #4ea0ff;
     color: white;
     width: 50%;
+    height: 20px;
 }
 
 .tr-1 {
     background-color: lightskyblue;
 }
-
-.marker {
-    background-color: yellow;
-}
-
-.booleaner {
-    color: lightskyblue;
-}
-
 
 /* Footer */
 
